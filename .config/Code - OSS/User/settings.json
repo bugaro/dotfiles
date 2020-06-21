@@ -1,0 +1,20 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Dracula",
+    "window.zoomLevel": 2,
+    "editor.minimap.enabled": false,
+    "editor.fontLigatures": null,
+    "editor.fontFamily": "'Font Awesome 5 Brands Regular','Font Awesome 5 Free Solid','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "git.autofetch": true,
+    "files.associations": {
+    
+    },
+    "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.lineNumbers": "relative"
+}
